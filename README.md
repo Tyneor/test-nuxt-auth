@@ -18,3 +18,9 @@ $ npm install
 $ npm run start
 
 ```
+
+## Credits
+
+The front is heavily inspired by this Youtube tutorial : [Nuxt Auth - Authentication and Authorization in NuxtJS by Vue Screencasts](https://www.youtube.com/watch?v=zzUpO8tXoaw)
+
+The back uses this npm package : [JSON Server Auth](https://github.com/jeremyben/json-server-auth)
