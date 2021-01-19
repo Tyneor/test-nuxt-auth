@@ -5,7 +5,7 @@
 ### Run front
 
 ```bash
-$ cd back
+$ cd front
 $ npm install
 $ npm run dev
 ```
