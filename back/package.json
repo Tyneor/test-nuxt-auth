@@ -1,0 +1,14 @@
+{
+  "name": "fake-screencast-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "start-old": "json-server db.json -m ./node_modules/json-server-auth -r routes.json"
+  },
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "json-server-auth": "^2.0.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "name": "Intro to VueJS",
+      "thumbnail": "https://picsum.photos/id/1001/1080/720"
+    },
+    {
+      "id": 2,
+      "name": "Vuex",
+      "thumbnail": "https://picsum.photos/id/1002/1080/720"
+    },
+    {
+      "id": 3,
+      "name": "Vue Router",
+      "thumbnail": "https://picsum.photos/id/1003/1080/720"
+    },
+    {
+      "id": 4,
+      "name": "Intro to NuxtJS",
+      "thumbnail": "https://picsum.photos/id/1004/1080/720"
+    },
+    {
+      "id": 5,
+      "name": "Vue 3",
+      "thumbnail": "https://picsum.photos/id/1005/1080/720"
+    },
+    {
+      "id": 6,
+      "name": "Advanced techniques",
+      "thumbnail": "https://picsum.photos/id/1006/1080/720"
+    }
+  ],
+  "users": [
+    {
+      "name": "Cool boi",
+      "email": "pwd=azertyuiop@mail.com",
+      "password": "$2a$10$3mdcuwGmBjx87.V06s5EquNARY3F6jBc0H8.CjVMYxGphj5GPy4Ai",
+      "id": 1,
+      "admin": true
+    },
+    {
+      "email": "coco@le.pirate",
+      "password": "$2a$10$IJf5n.vc6RT4v3gX/adsn.xE95syiMp2184TIHVDZrre.jdQa1e9u",
+      "name": "coco",
+      "id": 2
+    },
+    {
+      "email": "ssdgsfd@eam.csd",
+      "password": "$2a$10$JZH756hKLRRU3dnLiADwKOHm.oc1uWf6ZEboi2AP0XIA3vJToCSRG",
+      "name": "tsetset",
+      "id": 3
+    }
+  ]
+}
